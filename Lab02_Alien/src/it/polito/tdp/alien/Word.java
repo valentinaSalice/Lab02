@@ -1,7 +1,7 @@
 package it.polito.tdp.alien;
 
 public class Word {
-	
+	//esercizio 1
 	private String alienWord;
 	private String translation;
 	
